@@ -76,6 +76,7 @@ module NetSuite
     autoload :Account,                          'netsuite/records/account'
     autoload :AccountingPeriod,                 'netsuite/records/accounting_period'
     autoload :Address,                          'netsuite/records/address'
+    autoload :AdvInterCompanyJournalEntry,      'netsuite/records/adv_inter_company_journal_entry'
     autoload :BaseRefList,                      'netsuite/records/base_ref_list'
     autoload :BillAddress,                      'netsuite/records/bill_address'
     autoload :BillingSchedule,                  'netsuite/records/billing_schedule'
